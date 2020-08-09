@@ -1,0 +1,2 @@
+def newfeature():
+	pass
